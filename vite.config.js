@@ -8,5 +8,5 @@ export default defineConfig({
     react(),
     tailwindcss()
   ],
-  base: "/=Parasocial-Relationships/"
+  base: "/Parasocial-Relationships/"
 })
